@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/hust/soict/dsai/aims/Aims"/>
+	<classpathentry excluding="hust/soict/dsai/aims/Aims/|hust/soict/dsai/aims/cart/Cart/|hust/soict/dsai/aims/disc/DigitalVideoDisc/|hust/soict/dsai/aims/store/Store/|hust/soict/dsai/test/cart/CartTest/|hust/soict/dsai/test/disc/TestPassingParameter/|hust/soict/dsai/test/store/StoreTest/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/hust/soict/dsai/aims/cart/Cart"/>
+	<classpathentry kind="src" path="src/hust/soict/dsai/aims/disc/DigitalVideoDisc"/>
+	<classpathentry kind="src" path="src/hust/soict/dsai/aims/store/Store"/>
+	<classpathentry kind="src" path="src/hust/soict/dsai/test/cart/CartTest"/>
+	<classpathentry kind="src" path="src/hust/soict/dsai/test/disc/TestPassingParameter"/>
+	<classpathentry kind="src" path="src/hust/soict/dsai/test/store/StoreTest"/>
+	<classpathentry kind="output" path="out/production/AimsProject"/>
+</classpath>
