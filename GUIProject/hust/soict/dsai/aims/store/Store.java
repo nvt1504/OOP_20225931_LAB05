@@ -59,6 +59,7 @@ public class Store {
         return null;
     }
 
+    // Getter cho itemsInStore
     public ArrayList<Media> getItemsInStore() {
         return itemsInStore;
     }
